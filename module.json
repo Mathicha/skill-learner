@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "skill-learner",
+	"author": "Mathi",
+	"description": "Learn new skill when you level up.",
+	"version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/mathicha/skill-learner/master/"],
+	"options": {
+		"niceName": "Skill Learner"
+	},
+	"dependencies": {
+		"tera-game-state": "https://raw.githubusercontent.com/tera-toolbox/tera-game-state/master/module.json"
+	}
+}
